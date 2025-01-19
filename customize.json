@@ -1,14 +1,16 @@
 {
   "greeting": "Oi,",
-  "name": "Princesa",
-  "greetingText": "Eu adoro o seu nome, falando nisso",
+  "name": "princesa",
+  "greetingText": "Eu adoro esse apelido, falando nisso",
   "wishText": "Que todos os seus desejos se realizem. Eu gosto muito de você :)",
   "imagePath": "img/scott.png",
   "text1": "É o seu aniversário!!! :D",
-  "textInChatBox": "Hoje, eu só queria te lembrar o quanto você é importante para mim. Sei que às vezes não sou muito bom com palavras, mas quero que saiba que sou imensamente grato por ter você na minha vida. Você tem feito meus dias melhores de tantas formas que nem sei por onde começar. Isso aqui é só algo bobo que eu resolvi fazer num dia desses de madrugada, pois gosto de brincar com sites, mas seu presente mesmo te aguarda! :)",
+  "textInChatBox": "Hoje, eu só queria te lembrar o quanto você é importante para mim. Sei que às vezes não sou muito bom com palavras, mas quero que saiba que sou imensamente grato por ter você na minha vida. <p>Você tem feito meus dias melhores de tantas formas que nem sei por onde começar. Isso aqui é só algo bobo que eu resolvi fazer num dia desses de madrugada, pois gosto de brincar com sites, mas seu presente mesmo te aguarda! :)</p>",
+  "sendButtonLabel": "Enviar",
+  "text2": "Eu pensei muito no que seria legal o bastante pra te dar de presente",
   "text3": "Mas não achei nada que demonstrasse o quanto você é importante pra mim",
   "text4": "Eu queria que fosse algo",
-  "text4Adjective": "Especial",
+  "text4Adjective": "especial",
   "text5Entry": "Porque",
   "text5Content": "Você é especial",
   "smiley": ":)",
@@ -16,6 +18,6 @@
   "bigTextPart2": "TÃO",
   "wishHeading": "Feliz aniversário!",
   "outroText": "Tá, agora me diz se você achou isso legal ou super super brega...",
-  "replayText": "Ou clica de novo se quiser ler mais uma vez.",
+  "replayText": "E se clicar aqui você pode ler tudo mais uma vez!",
   "outroSmiley": ":)"
 }
