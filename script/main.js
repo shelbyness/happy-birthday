@@ -29,13 +29,6 @@ const animationTimeline = () => {
   // Spit chars that needs to be animated individually
   const textBoxChars = document.getElementsByClassName("hbd-chatbox")[0];
   const hbd = document.getElementsByClassName("wish-hbd")[0];
-  
-// a partir daqui 
-document.getElementById("chatBox").innerHTML += texto; // Isso adiciona o texto ao chatBox
-
-// Rolar para a parte inferior depois de adicionar o texto
-const chatBox = document.getElementsByClassName("hbd-chatbox");
-chatBox.scrollTop = chatBox.scrollHeight; // Rola para o fundo
 
   textBoxChars.innerHTML = `<span>${textBoxChars.innerHTML
     .split("")
